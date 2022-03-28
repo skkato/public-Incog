@@ -1,12 +1,17 @@
 [
     {
         "title": "shinycolors",
-        "img": "./img/apps/google.jpg",
+        "img": "./img/url.jpg",
+        "location": "./#apps"
+    },
+    {
+        "title": "shinycolors",
+        "img": "./img/shiny.jpg",
         "location": "https://shinycolors.enza.fun/"
     },
     {
         "title": "dmm",
-        "img": "./img/apps/y8.png",
-        "location": "https://www.y8.com"
+        "img": "./img/dmm.jpg",
+        "location": "https://games.dmm.com"
     }
 ]
