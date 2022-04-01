@@ -1,4 +1,4 @@
-AuthUserFile /.htpasswd
 AuthType Basic
-AuthName "Restricted Access"
-Require valid-user
+AuthName "Input your ID and Password."
+AuthUserFile /app/.htpasswd
+require valid-user
