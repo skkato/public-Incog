@@ -1,0 +1,4 @@
+AuthUserFile /app/.htpasswd
+AuthType Basic
+AuthName "TIPS:BLACK CHART"
+Require valid-user
