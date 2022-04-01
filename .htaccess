@@ -1,4 +1,4 @@
 AuthUserFile /app/.htpasswd
 AuthType Basic
-AuthName "TIPS:BLACK CHART"
+AuthName "Restricted Access"
 Require valid-user
